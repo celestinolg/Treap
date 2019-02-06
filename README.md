@@ -1,0 +1,2 @@
+# Treap
+treap e a árvore de pesquisa binária aleatória são duas formas intimamente relacionadas de estruturas de dados de árvore de pesquisa binária que mantêm um conjunto dinâmico de chaves ordenadas e permitem buscas binárias entre as chaves. Após qualquer seqüência de inserções e exclusões de chaves, a forma da árvore é uma variável aleatória com a mesma distribuição de probabilidade de uma árvore binária aleatória.
